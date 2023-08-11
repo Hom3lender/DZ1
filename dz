@@ -166,3 +166,5 @@ rm -r .git
 
 git log
 git merge conflict
+
+добавил строку текс еще
